@@ -25,6 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Rishi's First CS193 Homework
+
+- The instructor
+- The room
+- Myself
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
